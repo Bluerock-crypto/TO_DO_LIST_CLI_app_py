@@ -100,7 +100,7 @@ This ensures data persistence.
 📁 File Structure
 
 .
-├── todo.py
+├── To_Do_List.py
 ├── TO_DO_LIST.txt
 └── README.md
 
